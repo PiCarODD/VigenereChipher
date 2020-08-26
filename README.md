@@ -1,13 +1,13 @@
-# VigenereChipher
-Java tool for VigenereCipher
+# ViginereChipher
+Java tool for ViginereCipher
 
 I uploaded both class file and java files to learn
 
 Useage
 
-javac vigenerechpher.java 
+javac viginerechpher.java 
 
-java vigenerechpher
+java viginerechpher
 
 Enter Plain text:
 
